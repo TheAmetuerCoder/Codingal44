@@ -1,0 +1,10 @@
+#social-media {
+    background-color: rgb(56, 43, 62);
+}
+.media_link {
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+    border: 2px solid rgb(140, 109, 155);
+    border-radius: 0.5rem;
+}
